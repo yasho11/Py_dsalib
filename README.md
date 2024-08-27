@@ -1,4 +1,4 @@
-# dsalib
+# pydsalib
 
 `dsalib` is a Python library designed to provide a comprehensive collection of fundamental and advanced data structures. It aims to make it easy to work with common data structures and solve algorithmic problems.
 
