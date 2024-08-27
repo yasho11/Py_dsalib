@@ -8,6 +8,7 @@ Copy code
 `LinkedList` provides methods to manipulate a linked list.
 
 - **`append(value)`**: Adds an element to the end of the list.
+
   ll = LinkedList()
 
   ll.append(1)
