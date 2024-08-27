@@ -37,6 +37,7 @@ print(queue.dequeue())
 **`__init__(*values)`**: Initializes the array with given values.
 
 arr = Array(5, 3, 8, 1)
+
 **`bubble_sort()`**: Sorts the array using the bubble sort algorithm.
 
 print(arr.bubble_sort())
